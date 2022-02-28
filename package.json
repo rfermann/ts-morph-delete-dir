@@ -1,0 +1,15 @@
+{
+  "name": "ts-morph-delete-dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "dependencies": {
+    "ts-morph": "^13.0.3",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
